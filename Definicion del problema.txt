@@ -1,0 +1,7 @@
+En el Proyecto se debe crear un programa que nos ayude a identificar cuanto sera la prima del seguro para una persona.
+
+Para lograr esto se debe obtener informacion del asegurado principal para poder hacer un calculo para el costo total de la prima del seguro.
+
+Segun los datos obtenidos se le agregara el recargo por cada una de las variables, las cuales son: edad, estado civil y si tiene hijos.
+
+Se desarrollo el programa con las variables y constantes proporcionadas en la descripcion del proyecto y se tuvo un programa exitoso, dando las cantidades exactas para un calculo de prima de seguro satisfactoria.
