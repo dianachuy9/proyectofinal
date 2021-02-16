@@ -16,6 +16,6 @@ En esta branch podemos encontrar el archivo .js y el archivo .txt del programa c
 
 # loop
 
-No se logro completar el loop de while en el programa por lo que no se creo esta branch.
+Se logro compmletar el loop de while y se agregaron los archivos .txt y .js en esta branch
 
 Muchas gracias por su atencion.
